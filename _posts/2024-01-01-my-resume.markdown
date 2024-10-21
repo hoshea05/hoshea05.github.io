@@ -6,4 +6,8 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: resume.jpg
 tags: [Career]
 ---
-content test
+## Profile
+First-year Applied Computer Science student at Dalhousie University with a strong passion
+for photography and visual storytelling. Seeking a Photographer or Videography position
+within the Faculty of Computer Science to contribute to event coverage and promotional
+content while further developing my photography skills in an academic environment.
