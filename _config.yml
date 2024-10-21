@@ -11,8 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Hoshea Li # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: Hoshea Li is a computer science student at Dalhousie University with a passion for technology and digital content creation. 
-I enjoy photography, video editing, and sharing insights on social media platforms. # add description
+about-author: Hoshea Li is a computer science student with a passion for technology and digital content creation. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
