@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Resume
-date: 2035-01-01 00:00:00 -0300
+date: 2024-10-21 00:00:00 -0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: resume.jpg
 tags: [Career]
