@@ -11,15 +11,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Hoshea Li # add your name
 author-img: avatar.jpg # add your photo
-about-author: Hoshea Li is a computer science student with a passion for technology and digital content creation. # add description
+about-author: I am a current Computer Science student with a passion for technology and digital content creation. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: hoshea05 # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email:  # add your Email address
-
-# Disqus
-# discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
