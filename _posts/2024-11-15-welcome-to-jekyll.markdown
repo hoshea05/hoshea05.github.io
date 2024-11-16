@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Welcome to Jekyll!"
-date: 2023-11-15 20:20:00 +0400
+date: 2024-11-15 20:20:00 +0400
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img:  # Add image post (optional)
+img:  how-to-start.jpg
 ---
 
 This post mainly archived common used markdown syntax.
